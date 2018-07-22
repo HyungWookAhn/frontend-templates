@@ -13,6 +13,7 @@
         <module>velocity</module>
         <module>sitemesh</module>
         <module>freemarker</module>
+        <module>handlebars</module>
     </modules>
 
     <parent>
