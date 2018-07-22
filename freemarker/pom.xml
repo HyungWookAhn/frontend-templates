@@ -9,13 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>velocity</artifactId>
+    <artifactId>freemarker</artifactId>
 
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-velocity</artifactId>
-            <version>1.4.7.RELEASE</version>
+            <artifactId>spring-boot-starter-freemarker</artifactId>
         </dependency>
     </dependencies>
 

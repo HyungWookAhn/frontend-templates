@@ -12,6 +12,7 @@
         <module>thymleaf</module>
         <module>velocity</module>
         <module>sitemesh</module>
+        <module>freemarker</module>
     </modules>
 
     <parent>
